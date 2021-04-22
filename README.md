@@ -1,7 +1,9 @@
 # kubernetisCronJob
 This example is only for linux user.
 For running this on your local please install minikube - https://minikube.sigs.k8s.io/docs/start/
+
 https://www.javatpoint.com/docker-java-example
+
 https://www.twilio.com/blog/automate-scripts-golang-minikube-cronjobs
 
 A complete example on how to run Kubernetis Cron Job 
